@@ -1,7 +1,7 @@
 {
-  "name": "dexcom-share",
+  "name": "dexcom-share-outside-us",
   "version": "3.3.0",
-  "description": "API for reading blood glucose values from Dexcom's Share servers",
+  "description": "API for reading blood glucose values from Dexcom's Share servers, forked and extended to also work with outside US accounts.",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "keywords": [
@@ -14,7 +14,7 @@
     "bgl",
     "cgm"
   ],
-  "author": "Nathan Rajlich <n@n8.io>",
+  "author": "Simon Hopstätter <simon.hopstaetter@mailbox.org>",
   "license": "GPL-3.0",
   "files": [
     "dist"
